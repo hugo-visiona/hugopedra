@@ -27,8 +27,6 @@
   <img align="center" alt="cassandra" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1280px-Cassandra_logo.svg.png">
   <img align="center" alt="gcp" height="120" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
   
-  <img align="center" alt="powerbi" height="50" width="100" src="https://aptude.com/wp-content/uploads/2021/11/powerbi_logo-1.png">
-  
 </div>
   
 ## Contacts
